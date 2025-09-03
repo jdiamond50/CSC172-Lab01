@@ -1,3 +1,7 @@
+@FunctionalInterface
+public interface findMax {
+	Character max(Character[] charArr);
+}
 
 public class PrintArray {
 	public static void main(String[] args) {
@@ -113,3 +117,4 @@ public class PrintArray {
 		return max;
 	}
 }
+
