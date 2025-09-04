@@ -1,7 +1,7 @@
-name: Norman Sackett
-email: nsackett@u.rochester.edu
+# CSC172 Lab01
 
-lab partner: Julien Diamond
+Julien Diamond - jdiamo12@u.rochester.edu
 
-CSC 172 Lab 1
-This lab covered a review of Java generics and lambda expressions implementing a functional interface. Various arrays of objects were printed with multiple methods and the maximum value of these arrays was also found with a variety of methods. The PrintArray java file holds the source code for the lab and the OUTPUT file displays the code's output.
+lab partner: Norman Sackett - nsackett@u.rochester.edu
+
+This lab was involved a review of Java generics and how generics can be used to implement methods that can potentially take a variety of classes as inputs. This was illustrated with the `printArray()` and `getMax()` methods and contrasted with other means of taking in multiple classes as input, such as having a parameter of type Object (or an Object array) and method overloading.
