@@ -1,0 +1,61 @@
+--- SECTION 1 ---
+
+% javac Lab01.java
+% java Lab01
+
+{1, 2, 3, 4, 5}
+{1.1, 2.2, 3.3, 4.4}
+{H, E, L, L, O}
+{once, upon, a, time}
+
+--- SECTION 2 ---
+
+% javac Lab01.java
+% java Lab01
+
+{1, 2, 3, 4, 5}
+{1.1, 2.2, 3.3, 4.4}
+{H, E, L, L, O}
+{once, upon, a, time}
+
+--- SECTION 3 ---
+
+% javac Lab01.java
+% java Lab01
+
+{1, 2, 3, 4, 5}
+{1.1, 2.2, 3.3, 4.4}
+{H, E, L, L, O}
+{once, upon, a, time}
+
+--- SECTION 4 ---
+
+% javac Lab01.java
+
+Note: Lab01.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+
+% java Lab01
+
+{1, 2, 3, 4, 5}
+{1.1, 2.2, 3.3, 4.4}
+{H, E, L, L, O}
+{once, upon, a, time}
+5
+4.4
+O
+upon
+
+--- SECTION 5 ---
+
+% javac Lab01.java
+% java Lab01
+
+{1, 2, 3, 4, 5}
+{1.1, 2.2, 3.3, 4.4}
+{H, E, L, L, O}
+{once, upon, a, time}
+5
+4.4
+O
+upon
