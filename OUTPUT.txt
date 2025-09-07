@@ -1,3 +1,6 @@
+Julien Diamond
+partner: Norman Sackett
+
 --- SECTION 1 ---
 
 % javac Lab01.java
@@ -59,3 +62,10 @@ upon
 4.4
 O
 upon
+
+--- SECTION 6 ---
+
+% javac Lab01_s6.java
+% java Lab01_s6
+
+O

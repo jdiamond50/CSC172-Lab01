@@ -1,5 +1,5 @@
 // Julien Diamond
-// Norman Sackett
+// partner: Norman Sackett
 
 public class Lab01 {
 	public static void main(String[] args) {
